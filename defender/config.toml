@@ -1,0 +1,4 @@
+baseURL = 'https://defender.helpazure.com/'
+languageCode = 'en-us'
+title = 'Microsoft Defender Learning'
+theme = "hugo-theme-relearn"
